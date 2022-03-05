@@ -1,3 +1,6 @@
 [submodule "sub_test"]
 	path = sub_test
 	url = ./sub_test
+[submodule "rock"]
+	path = rock
+	url = https://github.com/LeonidShai/rock.git
